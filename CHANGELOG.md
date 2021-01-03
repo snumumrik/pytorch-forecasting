@@ -5,6 +5,7 @@
 ### Added
 
 - Add "Release Notes" section to docs (#237)
+- Adding Temporal Flow Transformer which can model time series interactions (#238)
 
 ---
 
